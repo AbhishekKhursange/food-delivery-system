@@ -8,7 +8,7 @@ add items to cart, and place orders.
 - ⚙️ [Backend Code](https://github.com/AbhishekKhursange/Backend)
 
 ## 🚀 Live Demo
-- 🌐 [View Live App](frontend-ten-eta-10.vercel.app)
+- 🌐 [View Live App](https://frontend-ten-eta-10.vercel.app)
 
 ## 🛠️ Tech Stack
 - **Frontend:** React JS, Bootstrap
